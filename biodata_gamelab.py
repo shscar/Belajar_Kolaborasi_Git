@@ -6,15 +6,16 @@ nama = "Gamelab Indonesia"
 hobi = "Membantu mengoptimalkan \n                skill programming"
 alamat = "Jalan Kalisombo No. 18"
 Kota = "Salatiga"
-Pr e3sy 5nqtewsw
+Propinsi = "Jawa Tengah"
 
 print("Nama Lengkap  :",nama)
 
-print("Alamat        :",alamatvf6tt6y
+print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",Propinsi)
 
 
 print("Hobi          :", hobi)
 
-print ("Selama,nama )drtyjnet5n
+print ("Selamat Datang di",nama )
 print ("=======================================")
  
+Footer
